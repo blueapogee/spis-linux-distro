@@ -1,0 +1,80 @@
+2018-04-24 08:30:26,980 TRACE BundleController:CAD Module [DefaultBundleController.java:74] controller associated with CAD Module is created
+2018-04-24 08:30:26,994 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] CAD Module registered
+2018-04-24 08:30:27,615 TRACE BundleController:CAD Module [DefaultBundleController.java:74] controller associated with CAD Module is created
+2018-04-24 08:30:27,616 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] CAD Module registered
+2018-04-24 08:30:27,624 TRACE BundleController:GMSH exucution module [DefaultBundleController.java:74] controller associated with GMSH exucution module is created
+2018-04-24 08:30:27,627 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] GMSH exucution module registered
+2018-04-24 08:30:27,632 TRACE BundleController:Keridwen Group Editor module [DefaultBundleController.java:74] controller associated with Keridwen Group Editor module is created
+2018-04-24 08:30:27,633 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Keridwen Group Editor module registered
+2018-04-24 08:30:27,636 TRACE BundleController:Live monitoring [DefaultBundleController.java:74] controller associated with Live monitoring is created
+2018-04-24 08:30:27,638 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Live monitoring registered
+2018-04-24 08:30:27,737 TRACE BundleController:Wizard [DefaultBundleController.java:74] controller associated with Wizard is created
+2018-04-24 08:30:27,760 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Wizard registered
+2018-04-24 08:30:27,766 TRACE BundleController:Kerdiwen Utils Module [DefaultBundleController.java:74] controller associated with Kerdiwen Utils Module is created
+2018-04-24 08:30:27,767 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Kerdiwen Utils Module registered
+2018-04-24 08:30:27,808 TRACE BundleController:Legacy converter [DefaultBundleController.java:74] controller associated with Legacy converter is created
+2018-04-24 08:30:27,809 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Legacy converter registered
+2018-04-24 08:30:27,876 TRACE BundleController:UI2NUM [DefaultBundleController.java:74] controller associated with UI2NUM is created
+2018-04-24 08:30:27,882 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] UI2NUM registered
+2018-04-24 08:30:27,887 TRACE BundleController:Reporting [DefaultBundleController.java:74] controller associated with Reporting is created
+2018-04-24 08:30:27,975 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Reporting registered
+2018-04-24 08:30:27,997 TRACE BundleController:Data mining [DefaultBundleController.java:74] controller associated with Data mining is created
+2018-04-24 08:30:28,720 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Data mining registered
+2018-04-24 08:30:28,732 TRACE BundleController:Global Parameters [DefaultBundleController.java:74] controller associated with Global Parameters is created
+2018-04-24 08:30:28,788 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Global Parameters registered
+2018-04-24 08:30:28,793 TRACE BundleController:Project [DefaultBundleController.java:74] controller associated with Project is created
+2018-04-24 08:30:28,882 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Project registered
+2018-04-24 08:30:28,903 TRACE BundleController:Simulation [DefaultBundleController.java:74] controller associated with Simulation is created
+2018-04-24 08:30:28,922 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Simulation registered
+2018-04-24 08:30:28,925 TRACE BundleController:Electrical circuit [DefaultBundleController.java:74] controller associated with Electrical circuit is created
+2018-04-24 08:30:28,936 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Electrical circuit registered
+2018-04-24 08:30:28,939 TRACE BundleController:External tools [DefaultBundleController.java:74] controller associated with External tools is created
+2018-04-24 08:30:28,941 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] External tools registered
+2018-04-24 08:30:28,977 TRACE BundleController:Geometry Editor [DefaultBundleController.java:74] controller associated with Geometry Editor is created
+2018-04-24 08:30:29,189 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Geometry Editor registered
+2018-04-24 08:30:29,196 TRACE BundleController:Mesh Editor [DefaultBundleController.java:74] controller associated with Mesh Editor is created
+2018-04-24 08:30:29,263 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Mesh Editor registered
+2018-04-24 08:30:29,268 TRACE BundleController:SPIS Model [DefaultBundleController.java:74] controller associated with SPIS Model is created
+2018-04-24 08:30:29,268 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] SPIS Model registered
+2018-04-24 08:30:29,279 TRACE BundleController:Group Editor [DefaultBundleController.java:74] controller associated with Group Editor is created
+2018-04-24 08:30:29,485 TRACE o.k.c.m.i.CoreEventDispatcher [CoreEventDispatcher.java:133] Group Editor registered
+2018-04-24 08:30:29,517 TRACE BundleController:Project [CommandLogLevel.java:39] Insert home button - 0
+2018-04-24 08:30:29,535 TRACE BundleController:Project [CommandLogLevel.java:39] Enable home button - true
+2018-04-24 08:30:29,538 TRACE BundleController:Project [CommandLogLevel.java:39] Displays home panel - null
+2018-04-24 08:30:29,541 TRACE BundleController:Project [CommandLogLevel.java:39] Insert project configuration button - 1
+2018-04-24 08:30:29,546 TRACE BundleController:Project [CommandLogLevel.java:39] Enable project configuration button - false
+2018-04-24 08:30:29,549 TRACE BundleController:Geometry Editor [CommandLogLevel.java:39] Inserts the geometry editor button - 2
+2018-04-24 08:30:29,555 TRACE BundleController:Geometry Editor [CommandLogLevel.java:39] Enable the geometry editor button - false
+2018-04-24 08:30:29,558 TRACE BundleController:Mesh Editor [CommandLogLevel.java:39] Inserts the mesh editor button - 3
+2018-04-24 08:30:29,564 TRACE BundleController:Mesh Editor [CommandLogLevel.java:39] Enable the mesh editor button - false
+2018-04-24 08:30:29,567 TRACE BundleController:Group Editor [CommandLogLevel.java:39] Inserts the group editor button - 4
+2018-04-24 08:30:29,574 TRACE BundleController:Group Editor [CommandLogLevel.java:39] Enable the group editor button - false
+2018-04-24 08:30:29,578 TRACE BundleController:Electrical circuit [CommandLogLevel.java:39] Inserts the mesh editor button - 5
+2018-04-24 08:30:29,585 TRACE BundleController:Electrical circuit [CommandLogLevel.java:39] Enable the mesh editor button - false
+2018-04-24 08:30:29,588 TRACE BundleController:Global Parameters [CommandLogLevel.java:39] Inserts the global parameters editor button - 6
+2018-04-24 08:30:29,594 TRACE BundleController:Global Parameters [CommandLogLevel.java:39] Enable the global parameters editor button - false
+2018-04-24 08:30:29,597 TRACE BundleController:Simulation [CommandLogLevel.java:39] Inserts the simulation button - 7
+2018-04-24 08:30:29,603 TRACE BundleController:Simulation [CommandLogLevel.java:39] Enable the simulation button - false
+2018-04-24 08:30:29,607 TRACE BundleController:Data mining [CommandLogLevel.java:39] Inserts the data mining button - 8
+2018-04-24 08:30:29,614 TRACE BundleController:Data mining [CommandLogLevel.java:39] Enable the data mining button - false
+2018-04-24 08:30:29,616 TRACE BundleController:Reporting [CommandLogLevel.java:39] Inserts the reporting button - 9
+2018-04-24 08:30:29,622 TRACE BundleController:Reporting [CommandLogLevel.java:39] Enable the reporting button - false
+2018-04-24 08:30:29,624 DEBUG o.k.c.s.i.SCXMLStateMachine [SCXMLStateMachine.java:219] Entering state: org.spis.ui.home
+2018-04-24 08:30:45,953 DEBUG BundleController:Project [CommandLogLevel.java:42] Loading SPIS project - /home/simon/spis/testproject/TestProject.spis5
+2018-04-24 08:30:46,053 TRACE BundleController:Project [CommandLogLevel.java:39] Enable home button - true
+2018-04-24 08:30:46,054 TRACE BundleController:Project [CommandLogLevel.java:39] Enable project configuration button - true
+2018-04-24 08:30:46,056 TRACE BundleController:Project [CommandLogLevel.java:39] Displays project configuration panel - null
+2018-04-24 08:30:46,057 TRACE BundleController:Geometry Editor [CommandLogLevel.java:39] Enable the geometry editor button - false
+2018-04-24 08:30:46,058 TRACE BundleController:Mesh Editor [CommandLogLevel.java:39] Enable the mesh editor button - false
+2018-04-24 08:30:46,059 TRACE BundleController:Group Editor [CommandLogLevel.java:39] Enable the group editor button - false
+2018-04-24 08:30:46,059 TRACE BundleController:Electrical circuit [CommandLogLevel.java:39] Enable the mesh editor button - false
+2018-04-24 08:30:46,060 TRACE BundleController:Global Parameters [CommandLogLevel.java:39] Enable the global parameters editor button - false
+2018-04-24 08:30:46,061 TRACE BundleController:Simulation [CommandLogLevel.java:39] Enable the simulation button - false
+2018-04-24 08:30:46,062 TRACE BundleController:Data mining [CommandLogLevel.java:39] Enable the data mining button - false
+2018-04-24 08:30:46,064 TRACE BundleController:Reporting [CommandLogLevel.java:39] Enable the reporting button - false
+2018-04-24 08:30:46,067 DEBUG o.k.c.s.i.SCXMLStateMachine [SCXMLStateMachine.java:219] Entering state: org.spis.ui.project.configuration
+2018-04-24 08:30:58,774 DEBUG BundleController:External tools [CommandLogLevel.java:42] Gmsh launch - null
+2018-04-24 08:31:07,053 DEBUG BundleController:Wizard [CommandLogLevel.java:42] Show perspective command - org.spis.ui.home
+2018-04-24 08:31:09,084 DEBUG BundleController:Wizard [CommandLogLevel.java:42] Show perspective command - org.spis.ui.project.configuration
+2018-04-24 08:31:10,596 DEBUG BundleController:Wizard [CommandLogLevel.java:42] Show perspective command - org.spis.ui.project.configuration
+2018-04-24 08:32:17,440 DEBUG BundleController:Wizard [CommandLogLevel.java:42] Exit - null
