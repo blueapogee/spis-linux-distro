@@ -1,7 +1,5 @@
 #!/bin/bash
 
-JAVA_DIR=./dependencies/thirdparty/jre-1.8.0_73-linux64b
-JAVA_DIR=/opt/jdk1.8.0_151
 
 START_POINT=$PWD
 CMD_LINE=`dirname $0`
